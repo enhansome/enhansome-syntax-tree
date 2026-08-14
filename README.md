@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,020 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,021 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,464 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,009 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 905 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

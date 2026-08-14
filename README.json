@@ -14,7 +14,7 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5020
+            "stars": 5021
           }
         },
         {
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:35:07.069Z",
+    "last_updated": "2026-08-14T12:29:48.401Z",
     "original_repository": "syntax-tree/awesome-syntax-tree",
     "original_repository_sha": "f823fbaebe1afb538520fb5f588efc3abe677393",
     "enhanced_repository": "enhansome/enhansome-syntax-tree",
