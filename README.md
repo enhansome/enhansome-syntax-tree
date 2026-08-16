@@ -132,7 +132,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 334 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 237 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
-* [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 130 | 🐛 0 | 📅 2024-10-03
+* [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 131 | 🐛 0 | 📅 2024-10-03
 
 ## License
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
