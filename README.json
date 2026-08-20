@@ -15,7 +15,7 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5021
+            "stars": 5022
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2024-10-25T13:36:16Z",
             "owner": "syntax-tree",
             "repo": "hast-util-sanitize",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:30.980Z",
+    "last_updated": "2026-08-20T12:15:05.085Z",
     "original_repository": "syntax-tree/awesome-syntax-tree",
     "original_repository_id": 188994543,
     "original_repository_sha": "f823fbaebe1afb538520fb5f588efc3abe677393",
