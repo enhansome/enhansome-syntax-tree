@@ -39,10 +39,10 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [unified](https://github.com/unifiedjs/unified) ⭐ 5,022 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,465 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
-* [unist](https://github.com/syntax-tree/unist) ⭐ 1,010 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
+* [unist](https://github.com/syntax-tree/unist) ⭐ 1,009 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 905 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
-* [xast](https://github.com/syntax-tree/xast) ⭐ 93 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
+* [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
 * [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
 * [syntax-tree](https://github.com/syntax-tree) - Organization.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
@@ -59,7 +59,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [unist-util-filter](https://github.com/syntax-tree/unist-util-filter) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-26 - Create a new tree with nodes that pass a filter.
 * [unist-util-assert](https://github.com/syntax-tree/unist-util-assert) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,010 | 🐛 0 | 📅 2026-06-01
+[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,009 | 🐛 0 | 📅 2026-06-01
 
 ## mdast utilities
 
@@ -98,13 +98,13 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## xast utilities
 
-* [xast-util-from-xml](https://github.com/syntax-tree/xast-util-from-xml) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Transform from an XML string.
+* [xast-util-from-xml](https://github.com/syntax-tree/xast-util-from-xml) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Transform from an XML string.
 * [xastscript](https://github.com/syntax-tree/xastscript) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Create xast trees.
 * [xast-util-feed](https://github.com/syntax-tree/xast-util-feed) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-19 - Build a feed (RSS, Atom).
 * [xast-util-sitemap](https://github.com/syntax-tree/xast-util-sitemap) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Build a sitemap.
 * [xast-util-to-xml](https://github.com/syntax-tree/xast-util-to-xml) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Transform to an XML string.
 
-[Find more utilities »](https://github.com/syntax-tree/xast#list-of-utilities) ⭐ 93 | 🐛 0 | 📅 2024-10-04
+[Find more utilities »](https://github.com/syntax-tree/xast#list-of-utilities) ⭐ 94 | 🐛 0 | 📅 2024-10-04
 
 ## esast utilities
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
