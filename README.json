@@ -45,7 +45,7 @@
             "last_commit": "2026-06-01T16:10:53Z",
             "owner": "syntax-tree",
             "repo": "unist",
-            "stars": 1009
+            "stars": 1010
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-01-22T19:02:30Z",
             "owner": "syntax-tree",
             "repo": "unist-util-visit",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -965,7 +965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:00:42.283Z",
+    "last_updated": "2026-08-24T12:15:54.128Z",
     "original_repository": "syntax-tree/awesome-syntax-tree",
     "original_repository_id": 188994543,
     "original_repository_sha": "f823fbaebe1afb538520fb5f588efc3abe677393",
