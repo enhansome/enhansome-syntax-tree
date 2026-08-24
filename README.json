@@ -112,7 +112,7 @@
       "title": "Official"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -248,12 +248,27 @@
             "repo": "unist-util-assert",
             "stars": 5
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40009598,
+            "language": null,
+            "last_commit": "2026-06-01T16:10:53Z",
+            "owner": "syntax-tree",
+            "repo": "unist",
+            "stars": 1010
+          }
         }
       ],
       "title": "unist utilities"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -389,12 +404,27 @@
             "repo": "mdast-util-assert",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48559092,
+            "language": null,
+            "last_commit": "2026-02-04T18:45:51Z",
+            "owner": "syntax-tree",
+            "repo": "mdast",
+            "stars": 1465
+          }
         }
       ],
       "title": "mdast utilities"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -635,12 +665,27 @@
             "repo": "hast-util-assert",
             "stars": 1
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42365050,
+            "language": null,
+            "last_commit": "2025-02-17T12:10:33Z",
+            "owner": "syntax-tree",
+            "repo": "hast",
+            "stars": 905
+          }
         }
       ],
       "title": "hast utilities"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -716,12 +761,27 @@
             "repo": "xast-util-to-xml",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231241397,
+            "language": null,
+            "last_commit": "2024-10-04T12:56:12Z",
+            "owner": "syntax-tree",
+            "repo": "xast",
+            "stars": 94
+          }
         }
       ],
       "title": "xast utilities"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -797,12 +857,27 @@
             "repo": "estree-util-attach-comments",
             "stars": 8
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338856266,
+            "language": null,
+            "last_commit": "2024-10-04T13:03:16Z",
+            "owner": "syntax-tree",
+            "repo": "esast",
+            "stars": 58
+          }
         }
       ],
       "title": "esast utilities"
     },
     {
-      "description": "Find more utilities »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -877,6 +952,21 @@
             "owner": "syntax-tree",
             "repo": "nlcst-test",
             "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more utilities »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24880547,
+            "language": null,
+            "last_commit": "2024-10-04T12:49:57Z",
+            "owner": "syntax-tree",
+            "repo": "nlcst",
+            "stars": 233
           }
         }
       ],
@@ -965,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:54.128Z",
+    "last_updated": "2026-08-24T14:37:10.462Z",
     "original_repository": "syntax-tree/awesome-syntax-tree",
     "original_repository_id": 188994543,
     "original_repository_sha": "f823fbaebe1afb538520fb5f588efc3abe677393",
