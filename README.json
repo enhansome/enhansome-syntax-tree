@@ -30,7 +30,7 @@
             "last_commit": "2026-02-04T18:45:51Z",
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1469
+            "stars": 1470
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-02-17T12:10:33Z",
             "owner": "syntax-tree",
             "repo": "hast",
-            "stars": 905
+            "stars": 906
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-02-04T18:45:51Z",
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1469
+            "stars": 1470
           }
         }
       ],
@@ -678,7 +678,7 @@
             "last_commit": "2025-02-17T12:10:33Z",
             "owner": "syntax-tree",
             "repo": "hast",
-            "stars": 905
+            "stars": 906
           }
         }
       ],
@@ -1017,7 +1017,7 @@
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
             "repo": "awesome-rehype",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -1055,9 +1055,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:18:11.959Z",
-    "original_repository": "syntax-tree/awesome-syntax-tree",
-    "original_repository_id": 188994543,
+    "last_updated": "2026-08-27T12:05:33.064Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188994543,
+      "language": null,
+      "last_commit": "2024-10-04T11:55:23Z",
+      "owner": "syntax-tree",
+      "repo": "awesome-syntax-tree",
+      "stars": 125
+    },
     "original_repository_sha": "f823fbaebe1afb538520fb5f588efc3abe677393",
     "enhanced_repository": "enhansome/enhansome-syntax-tree",
     "enhanced_repository_description": null,
