@@ -15,8 +15,9 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5023
-          }
+            "stars": 5024
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "syntax-tree",
             "repo": "mdast",
             "stars": 1470
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "syntax-tree",
             "repo": "unist",
             "stars": 1010
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "syntax-tree",
             "repo": "hast",
             "stars": 906
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "syntax-tree",
             "repo": "xast",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "syntax-tree",
             "repo": "esast",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "Official"
@@ -127,7 +134,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-visit",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "syntax-tree",
             "repo": "unist-builder",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-select",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-is",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-map",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-inspect",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-remove",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-filter",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "syntax-tree",
             "repo": "unist-util-assert",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "syntax-tree",
             "repo": "unist",
             "stars": 1010
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "unist utilities"
@@ -283,7 +300,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-to-hast",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-toc",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-to-string",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-zone",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-definitions",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-heading-range",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-to-nlcst",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-normalize-headings",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "syntax-tree",
             "repo": "mdast-util-assert",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "syntax-tree",
             "repo": "mdast",
             "stars": 1470
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "mdast utilities"
@@ -439,7 +466,8 @@
             "owner": "syntax-tree",
             "repo": "hastscript",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-html",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-jsx-runtime",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-sanitize",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-mdast",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-select",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-text",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-from-dom",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-dom",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-is-element",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-find-and-replace",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-nlcst",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-to-xast",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-from-text",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-has-property",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "syntax-tree",
             "repo": "hast-util-assert",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "syntax-tree",
             "repo": "hast",
             "stars": 906
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "hast utilities"
@@ -700,7 +744,8 @@
             "owner": "syntax-tree",
             "repo": "xast-util-from-xml",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -715,7 +760,8 @@
             "owner": "syntax-tree",
             "repo": "xastscript",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -730,7 +776,8 @@
             "owner": "syntax-tree",
             "repo": "xast-util-feed",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "syntax-tree",
             "repo": "xast-util-sitemap",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "syntax-tree",
             "repo": "xast-util-to-xml",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "syntax-tree",
             "repo": "xast",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "xast utilities"
@@ -796,7 +846,8 @@
             "owner": "remcohaszing",
             "repo": "estree-util-value-to-estree",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -811,7 +862,8 @@
             "owner": "syntax-tree",
             "repo": "estree-util-build-jsx",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -826,7 +878,8 @@
             "owner": "syntax-tree",
             "repo": "estree-util-to-js",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -841,7 +894,8 @@
             "owner": "syntax-tree",
             "repo": "esast-util-from-js",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -856,7 +910,8 @@
             "owner": "syntax-tree",
             "repo": "estree-util-attach-comments",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -871,7 +926,8 @@
             "owner": "syntax-tree",
             "repo": "esast",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "esast utilities"
@@ -892,7 +948,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst-to-string",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst-search",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -922,7 +980,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst-is-literal",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -937,7 +996,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst-normalize",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1012,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst-test",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "syntax-tree",
             "repo": "nlcst",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "nlcst utilities"
@@ -987,8 +1049,9 @@
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 493
-          }
+            "stars": 494
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1066,8 @@
             "owner": "mdx-js",
             "repo": "awesome",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1082,8 @@
             "owner": "rehypejs",
             "repo": "awesome-rehype",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1098,8 @@
             "owner": "unifiedjs",
             "repo": "awesome-unified",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         },
         {
           "node_type": "item",
@@ -1048,14 +1114,15 @@
             "owner": "retextjs",
             "repo": "awesome-retext",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:12.752Z",
+    "last_updated": "2026-08-28T21:32:12.622Z",
     "original_repository_info": {
       "archived": false,
       "id": 188994543,
