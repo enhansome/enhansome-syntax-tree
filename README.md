@@ -40,7 +40,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [unified](https://github.com/unifiedjs/unified) ⭐ 5,024 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,471 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,010 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
-* [hast](https://github.com/syntax-tree/hast) ⭐ 906 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
+* [hast](https://github.com/syntax-tree/hast) ⭐ 907 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
 * [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
@@ -94,7 +94,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [hast-util-has-property](https://github.com/syntax-tree/hast-util-has-property) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Check if a node has a property.
 * [hast-util-assert](https://github.com/syntax-tree/hast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 906 | 🐛 0 | 📅 2025-02-17
+[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 907 | 🐛 0 | 📅 2025-02-17
 
 ## xast utilities
 
