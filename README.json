@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5024,
+            "stars": 5025,
             "topics": [
               "ast",
               "cst",
@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1471,
+            "stars": 1472,
             "topics": [
               "ast",
               "markdown",
@@ -521,7 +521,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-hast",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "hast",
               "hast-util",
@@ -781,7 +781,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1471,
+            "stars": 1472,
             "topics": [
               "ast",
               "markdown",
@@ -1831,7 +1831,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:45:46.103Z",
+    "last_updated": "2026-08-30T15:29:10.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
