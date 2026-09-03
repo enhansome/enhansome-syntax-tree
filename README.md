@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,027 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,026 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,473 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 907 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -63,7 +63,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## mdast utilities
 
-* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
+* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
 * [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
 * [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
 * [mdast-zone](https://github.com/syntax-tree/mdast-zone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-05 - Use comments as ranges and markers.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
