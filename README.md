@@ -38,10 +38,10 @@ On top of **[unist][]** and its implementations sits the rest of
 ## Official
 
 * [unified](https://github.com/unifiedjs/unified) ⭐ 5,026 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,473 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,474 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 907 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
-* [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
+* [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
 * [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
 * [syntax-tree](https://github.com/syntax-tree) - Organization.
@@ -49,7 +49,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## unist utilities
 
-* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 354 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
+* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 355 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
 * [unist-builder](https://github.com/syntax-tree/unist-builder) ⭐ 81 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Create trees with a nice syntax.
 * [unist-util-select](https://github.com/syntax-tree/unist-util-select) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Select nodes with CSS-like selectors.
 * [unist-util-is](https://github.com/syntax-tree/unist-util-is) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-22 - Check if a node passes a test.
@@ -65,7 +65,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
 * [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
-* [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
+* [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
 * [mdast-zone](https://github.com/syntax-tree/mdast-zone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-05 - Use comments as ranges and markers.
 * [mdast-util-definitions](https://github.com/syntax-tree/mdast-util-definitions) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Find definitions.
 * [mdast-util-heading-range](https://github.com/syntax-tree/mdast-util-heading-range) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Use heading as ranges.
@@ -73,7 +73,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [mdast-normalize-headings](https://github.com/syntax-tree/mdast-normalize-headings) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Fix heading depths.
 * [mdast-util-assert](https://github.com/syntax-tree/mdast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,473 | 🐛 0 | 📅 2026-02-04
+[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,474 | 🐛 0 | 📅 2026-02-04
 
 ## hast utilities
 
@@ -124,7 +124,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [nlcst-normalize](https://github.com/syntax-tree/nlcst-normalize) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-17 - Normalize a word for easier comparison.
 * [nlcst-test](https://github.com/syntax-tree/nlcst-test) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-17 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/nlcst#list-of-utilities) ⭐ 233 | 🐛 0 | 📅 2024-10-04
+[Find more utilities »](https://github.com/syntax-tree/nlcst#list-of-utilities) ⭐ 234 | 🐛 0 | 📅 2024-10-04
 
 ## Related lists
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
