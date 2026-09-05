@@ -37,8 +37,8 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,026 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,474 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,028 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,475 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 907 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
@@ -49,7 +49,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## unist utilities
 
-* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 355 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
+* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 356 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
 * [unist-builder](https://github.com/syntax-tree/unist-builder) ⭐ 81 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Create trees with a nice syntax.
 * [unist-util-select](https://github.com/syntax-tree/unist-util-select) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Select nodes with CSS-like selectors.
 * [unist-util-is](https://github.com/syntax-tree/unist-util-is) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-22 - Check if a node passes a test.
@@ -63,7 +63,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## mdast utilities
 
-* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
+* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 125 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
 * [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
 * [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
 * [mdast-zone](https://github.com/syntax-tree/mdast-zone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-05 - Use comments as ranges and markers.
@@ -73,11 +73,11 @@ On top of **[unist][]** and its implementations sits the rest of
 * [mdast-normalize-headings](https://github.com/syntax-tree/mdast-normalize-headings) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Fix heading depths.
 * [mdast-util-assert](https://github.com/syntax-tree/mdast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,474 | 🐛 0 | 📅 2026-02-04
+[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,475 | 🐛 0 | 📅 2026-02-04
 
 ## hast utilities
 
-* [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 200 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
+* [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 199 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 118 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
 * [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 89 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
