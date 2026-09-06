@@ -37,8 +37,8 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,028 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,475 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,030 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,476 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 907 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
@@ -73,7 +73,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [mdast-normalize-headings](https://github.com/syntax-tree/mdast-normalize-headings) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Fix heading depths.
 * [mdast-util-assert](https://github.com/syntax-tree/mdast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,475 | 🐛 0 | 📅 2026-02-04
+[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,476 | 🐛 0 | 📅 2026-02-04
 
 ## hast utilities
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
