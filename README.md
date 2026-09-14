@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,030 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,029 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,477 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 909 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -49,7 +49,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## unist utilities
 
-* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 356 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
+* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 357 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
 * [unist-builder](https://github.com/syntax-tree/unist-builder) ⭐ 81 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Create trees with a nice syntax.
 * [unist-util-select](https://github.com/syntax-tree/unist-util-select) ⭐ 70 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Select nodes with CSS-like selectors.
 * [unist-util-is](https://github.com/syntax-tree/unist-util-is) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-22 - Check if a node passes a test.
@@ -128,7 +128,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 497 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 496 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 334 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
