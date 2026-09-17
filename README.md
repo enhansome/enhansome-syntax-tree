@@ -79,7 +79,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 199 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 118 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
-* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 89 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
+* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
 * [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
 * [hast-util-select](https://github.com/syntax-tree/hast-util-select) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - `querySelector`, `querySelectorAll`, and `matches`.
@@ -129,7 +129,7 @@ On top of **[unist][]** and its implementations sits the rest of
 ## Related lists
 
 * [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 496 | 🐛 2 | 📅 2024-10-03
-* [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 334 | 🐛 0 | 📅 2024-10-07
+* [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 335 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
