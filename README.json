@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5030,
+            "stars": 5032,
             "topics": [
               "ast",
               "cst",
@@ -109,7 +109,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "ast",
               "html",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-util-visit",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "syntax-tree",
               "unist",
@@ -258,7 +258,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-builder",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "hyperscript",
               "syntax-tree",
@@ -316,7 +316,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-util-is",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "equal",
               "equality",
@@ -400,7 +400,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-util-remove",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "filter",
               "syntax-tree",
@@ -813,7 +813,7 @@
             "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "hastscript",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "hast",
               "hast-util",
@@ -1021,7 +1021,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast-util-from-dom",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "dom",
               "hast",
@@ -1050,7 +1050,7 @@
             "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "hast-util-to-dom",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "dom",
               "hast",
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast-util-find-and-replace",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "find",
               "hast",
@@ -1284,7 +1284,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "ast",
               "html",
@@ -1374,7 +1374,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "xast-util-feed",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "atom",
               "feed",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:40:44.648Z",
+    "last_updated": "2026-09-18T15:11:27.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
