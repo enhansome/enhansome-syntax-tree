@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5032,
+            "stars": 5034,
             "topics": [
               "ast",
               "cst",
@@ -1317,7 +1317,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "xast-util-from-xml",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "parse",
               "syntax-tree",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:53:36.327Z",
+    "last_updated": "2026-09-21T17:12:28.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
