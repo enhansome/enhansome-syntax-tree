@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,035 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,477 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 912 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -128,8 +128,8 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 497 | 🐛 2 | 📅 2024-10-03
-* [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 335 | 🐛 0 | 📅 2024-10-07
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
+* [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 336 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
