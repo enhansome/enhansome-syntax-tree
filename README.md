@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,477 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 912 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -98,7 +98,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## xast utilities
 
-* [xast-util-from-xml](https://github.com/syntax-tree/xast-util-from-xml) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Transform from an XML string.
+* [xast-util-from-xml](https://github.com/syntax-tree/xast-util-from-xml) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Transform from an XML string.
 * [xastscript](https://github.com/syntax-tree/xastscript) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Create xast trees.
 * [xast-util-feed](https://github.com/syntax-tree/xast-util-feed) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-19 - Build a feed (RSS, Atom).
 * [xast-util-sitemap](https://github.com/syntax-tree/xast-util-sitemap) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-18 - Build a sitemap.
@@ -128,7 +128,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 499 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 336 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
 * [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 149 | 🐛 0 | 📅 2024-10-03
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
