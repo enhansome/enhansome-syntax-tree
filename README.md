@@ -39,7 +39,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [unified](https://github.com/unifiedjs/unified) ⭐ 5,037 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-29 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,478 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
-* [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
+* [unist](https://github.com/syntax-tree/unist) ⭐ 1,012 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 912 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
@@ -59,7 +59,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [unist-util-filter](https://github.com/syntax-tree/unist-util-filter) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-26 - Create a new tree with nodes that pass a filter.
 * [unist-util-assert](https://github.com/syntax-tree/unist-util-assert) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01
+[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,012 | 🐛 0 | 📅 2026-06-01
 
 ## mdast utilities
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
