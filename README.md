@@ -87,7 +87,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [hast-util-from-dom](https://github.com/syntax-tree/hast-util-from-dom) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-19 - Transform from a DOM tree.
 * [hast-util-to-dom](https://github.com/syntax-tree/hast-util-to-dom) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Transform to a DOM tree.
 * [hast-util-is-element](https://github.com/syntax-tree/hast-util-is-element) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Check if a node is a (certain) element.
-* [hast-util-find-and-replace](https://github.com/syntax-tree/hast-util-find-and-replace) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-21 - Find and replace text in a tree.
+* [hast-util-find-and-replace](https://github.com/syntax-tree/hast-util-find-and-replace) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - Find and replace text in a tree.
 * [hast-util-to-nlcst](https://github.com/syntax-tree/hast-util-to-nlcst) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-08 - Transform to nlcst.
 * [hast-util-to-xast](https://github.com/syntax-tree/hast-util-to-xast) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - Transform to xast.
 * [hast-util-from-text](https://github.com/syntax-tree/hast-util-from-text) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-02 - Set plain-text content.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
