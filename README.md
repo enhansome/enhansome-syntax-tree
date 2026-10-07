@@ -37,10 +37,10 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,478 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
-* [unist](https://github.com/syntax-tree/unist) ⭐ 1,012 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
-* [hast](https://github.com/syntax-tree/hast) ⭐ 912 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,036 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,480 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
+* [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
+* [hast](https://github.com/syntax-tree/hast) ⭐ 913 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
 * [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
@@ -59,11 +59,11 @@ On top of **[unist][]** and its implementations sits the rest of
 * [unist-util-filter](https://github.com/syntax-tree/unist-util-filter) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-26 - Create a new tree with nodes that pass a filter.
 * [unist-util-assert](https://github.com/syntax-tree/unist-util-assert) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,012 | 🐛 0 | 📅 2026-06-01
+[Find more utilities »](https://github.com/syntax-tree/unist#list-of-utilities) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01
 
 ## mdast utilities
 
-* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 125 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
+* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
 * [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
 * [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
 * [mdast-zone](https://github.com/syntax-tree/mdast-zone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-05 - Use comments as ranges and markers.
@@ -73,7 +73,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [mdast-normalize-headings](https://github.com/syntax-tree/mdast-normalize-headings) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Fix heading depths.
 * [mdast-util-assert](https://github.com/syntax-tree/mdast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,478 | 🐛 0 | 📅 2026-02-04
+[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,480 | 🐛 0 | 📅 2026-02-04
 
 ## hast utilities
 
@@ -94,7 +94,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [hast-util-has-property](https://github.com/syntax-tree/hast-util-has-property) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Check if a node has a property.
 * [hast-util-assert](https://github.com/syntax-tree/hast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 912 | 🐛 0 | 📅 2025-02-17
+[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 913 | 🐛 0 | 📅 2025-02-17
 
 ## xast utilities
 
@@ -128,10 +128,10 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 499 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/mdx-js/awesome) ⭐ 336 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
-* [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 149 | 🐛 0 | 📅 2024-10-03
+* [awesome unified](https://github.com/unifiedjs/awesome-unified) ⭐ 148 | 🐛 0 | 📅 2024-10-03
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
 
 ## License
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
