@@ -37,11 +37,11 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,038 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,039 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,480 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 913 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
-* [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 234 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
+* [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
 * [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
 * [syntax-tree](https://github.com/syntax-tree) - Organization.
@@ -124,7 +124,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [nlcst-normalize](https://github.com/syntax-tree/nlcst-normalize) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-17 - Normalize a word for easier comparison.
 * [nlcst-test](https://github.com/syntax-tree/nlcst-test) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-17 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/nlcst#list-of-utilities) ⭐ 234 | 🐛 0 | 📅 2024-10-04
+[Find more utilities »](https://github.com/syntax-tree/nlcst#list-of-utilities) ⭐ 233 | 🐛 0 | 📅 2024-10-04
 
 ## Related lists
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
