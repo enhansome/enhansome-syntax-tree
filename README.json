@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "ast",
               "markdown",
@@ -285,7 +285,7 @@
             "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "unist-util-select",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "matches",
               "queryselector",
@@ -521,7 +521,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-hast",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "hast",
               "hast-util",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-string",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "markdown",
               "mdast",
@@ -781,7 +781,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "ast",
               "markdown",
@@ -978,6 +978,35 @@
         },
         {
           "node_type": "item",
+          "title": "hast-util-from-dom",
+          "description": "Transform from a DOM tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "utility to transform a DOM tree to hast",
+            "homepage": "https://unifiedjs.com",
+            "id": 135494063,
+            "language": "JavaScript",
+            "license": "ISC",
+            "last_commit": "2024-11-19T09:17:55Z",
+            "open_issues": 0,
+            "owner": "syntax-tree",
+            "repo": "hast-util-from-dom",
+            "stars": 25,
+            "topics": [
+              "dom",
+              "hast",
+              "hast-util",
+              "html",
+              "syntax-tree",
+              "unist",
+              "util"
+            ]
+          },
+          "first_seen": "2026-08-28T21:32:12.622Z"
+        },
+        {
+          "node_type": "item",
           "title": "hast-util-to-text",
           "description": "Get plain-text content.",
           "children": [],
@@ -998,35 +1027,6 @@
               "hast-util",
               "html",
               "inner-text",
-              "syntax-tree",
-              "unist",
-              "util"
-            ]
-          },
-          "first_seen": "2026-08-28T21:32:12.622Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hast-util-from-dom",
-          "description": "Transform from a DOM tree.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "utility to transform a DOM tree to hast",
-            "homepage": "https://unifiedjs.com",
-            "id": 135494063,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2024-11-19T09:17:55Z",
-            "open_issues": 0,
-            "owner": "syntax-tree",
-            "repo": "hast-util-from-dom",
-            "stars": 24,
-            "topics": [
-              "dom",
-              "hast",
-              "hast-util",
-              "html",
               "syntax-tree",
               "unist",
               "util"
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:50:45.364Z",
+    "last_updated": "2026-10-21T16:07:58.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
