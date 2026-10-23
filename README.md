@@ -37,7 +37,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,042 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,043 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,483 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,014 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 913 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
@@ -78,7 +78,7 @@ On top of **[unist][]** and its implementations sits the rest of
 ## hast utilities
 
 * [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 200 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
-* [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
+* [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 3 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
 * [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
 * [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
