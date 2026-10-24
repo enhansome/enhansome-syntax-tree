@@ -79,12 +79,12 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 200 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 3 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
-* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
+* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
 * [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
 * [hast-util-select](https://github.com/syntax-tree/hast-util-select) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - `querySelector`, `querySelectorAll`, and `matches`.
 * [hast-util-from-dom](https://github.com/syntax-tree/hast-util-from-dom) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-19 - Transform from a DOM tree.
-* [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-16 - Get plain-text content.
+* [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2024-04-16 - Get plain-text content.
 * [hast-util-to-dom](https://github.com/syntax-tree/hast-util-to-dom) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Transform to a DOM tree.
 * [hast-util-is-element](https://github.com/syntax-tree/hast-util-is-element) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Check if a node is a (certain) element.
 * [hast-util-find-and-replace](https://github.com/syntax-tree/hast-util-find-and-replace) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - Find and replace text in a tree.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

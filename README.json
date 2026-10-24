@@ -867,7 +867,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-03-05T11:30:26Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "syntax-tree",
             "repo": "hast-util-to-jsx-runtime",
             "stars": 90,
@@ -1018,7 +1018,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-04-16T10:33:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "syntax-tree",
             "repo": "hast-util-to-text",
             "stars": 25,
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:56:04.494Z",
+    "last_updated": "2026-10-24T14:54:29.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
