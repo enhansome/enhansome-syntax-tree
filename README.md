@@ -37,8 +37,8 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,043 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,483 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,044 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,484 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,014 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
 * [hast](https://github.com/syntax-tree/hast) ⭐ 913 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
@@ -49,7 +49,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## unist utilities
 
-* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 360 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-22 - Visit nodes.
+* [unist-util-visit](https://github.com/syntax-tree/unist-util-visit) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Visit nodes.
 * [unist-builder](https://github.com/syntax-tree/unist-builder) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Create trees with a nice syntax.
 * [unist-util-select](https://github.com/syntax-tree/unist-util-select) ⭐ 71 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Select nodes with CSS-like selectors.
 * [unist-util-is](https://github.com/syntax-tree/unist-util-is) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-22 - Check if a node passes a test.
@@ -73,21 +73,21 @@ On top of **[unist][]** and its implementations sits the rest of
 * [mdast-normalize-headings](https://github.com/syntax-tree/mdast-normalize-headings) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-07 - Fix heading depths.
 * [mdast-util-assert](https://github.com/syntax-tree/mdast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,483 | 🐛 0 | 📅 2026-02-04
+[Find more utilities »](https://github.com/syntax-tree/mdast#list-of-utilities) ⭐ 1,484 | 🐛 0 | 📅 2026-02-04
 
 ## hast utilities
 
 * [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 200 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-19 - Create trees with a nice syntax.
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 3 | 🌐 JavaScript | 📅 2025-02-19 - Transform to an HTML string.
-* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-05 - Transform to preact, react, solid, svelte, vue, etc.
+* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-25 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
 * [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
 * [hast-util-select](https://github.com/syntax-tree/hast-util-select) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - `querySelector`, `querySelectorAll`, and `matches`.
 * [hast-util-from-dom](https://github.com/syntax-tree/hast-util-from-dom) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-19 - Transform from a DOM tree.
-* [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2024-04-16 - Get plain-text content.
+* [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-25 - Get plain-text content.
 * [hast-util-to-dom](https://github.com/syntax-tree/hast-util-to-dom) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-09 - Transform to a DOM tree.
 * [hast-util-is-element](https://github.com/syntax-tree/hast-util-is-element) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Check if a node is a (certain) element.
-* [hast-util-find-and-replace](https://github.com/syntax-tree/hast-util-find-and-replace) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-04 - Find and replace text in a tree.
+* [hast-util-find-and-replace](https://github.com/syntax-tree/hast-util-find-and-replace) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - Find and replace text in a tree.
 * [hast-util-to-nlcst](https://github.com/syntax-tree/hast-util-to-nlcst) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-08 - Transform to nlcst.
 * [hast-util-to-xast](https://github.com/syntax-tree/hast-util-to-xast) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - Transform to xast.
 * [hast-util-from-text](https://github.com/syntax-tree/hast-util-from-text) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-02 - Set plain-text content.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
