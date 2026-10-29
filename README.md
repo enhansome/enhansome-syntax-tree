@@ -37,13 +37,13 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,047 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,049 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
 * [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,484 | 🐛 0 | 📅 2026-02-04 - **mdast** (markdown) specification.
 * [unist](https://github.com/syntax-tree/unist) ⭐ 1,014 | 🐛 0 | 📅 2026-06-01 - **unist** specification.
-* [hast](https://github.com/syntax-tree/hast) ⭐ 913 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
+* [hast](https://github.com/syntax-tree/hast) ⭐ 914 | 🐛 0 | 📅 2025-02-17 - **hast** (HTML) specification.
 * [nlcst](https://github.com/syntax-tree/nlcst) ⭐ 233 | 🐛 0 | 📅 2024-10-04 - **nlcst** (prose) specification.
 * [xast](https://github.com/syntax-tree/xast) ⭐ 94 | 🐛 0 | 📅 2024-10-04 - **xast** (XML) specification.
-* [esast](https://github.com/syntax-tree/esast) ⭐ 58 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
+* [esast](https://github.com/syntax-tree/esast) ⭐ 59 | 🐛 0 | 📅 2024-10-04 - **esast** (JS) specification.
 * [syntax-tree](https://github.com/syntax-tree) - Organization.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
 
@@ -94,7 +94,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [hast-util-has-property](https://github.com/syntax-tree/hast-util-has-property) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Check if a node has a property.
 * [hast-util-assert](https://github.com/syntax-tree/hast-util-assert) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-01 - Assert nodes.
 
-[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 913 | 🐛 0 | 📅 2025-02-17
+[Find more utilities »](https://github.com/syntax-tree/hast#list-of-utilities) ⭐ 914 | 🐛 0 | 📅 2025-02-17
 
 ## xast utilities
 
@@ -114,7 +114,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [esast-util-from-js](https://github.com/syntax-tree/esast-util-from-js) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Transform from a JavaScript string.
 * [estree-util-attach-comments](https://github.com/syntax-tree/estree-util-attach-comments) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-31 - Attach comments to the tree.
 
-[Find more utilities »](https://github.com/syntax-tree/esast#list-of-utilities) ⭐ 58 | 🐛 0 | 📅 2024-10-04
+[Find more utilities »](https://github.com/syntax-tree/esast#list-of-utilities) ⭐ 59 | 🐛 0 | 📅 2024-10-04
 
 ## nlcst utilities
 
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
