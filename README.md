@@ -79,7 +79,7 @@ On top of **[unist][]** and its implementations sits the rest of
 
 * [hastscript](https://github.com/syntax-tree/hastscript) ⭐ 200 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Create trees with a nice syntax.
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29 - Transform to an HTML string.
-* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Transform to preact, react, solid, svelte, vue, etc.
+* [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
 * [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
 * [hast-util-select](https://github.com/syntax-tree/hast-util-select) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - `querySelector`, `querySelectorAll`, and `matches`.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

@@ -870,7 +870,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast-util-to-jsx-runtime",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "hast",
               "hast-util",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:15:31.748Z",
+    "last_updated": "2026-11-02T20:53:14.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
