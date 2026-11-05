@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1485,
+            "stars": 1486,
             "topics": [
               "ast",
               "markdown",
@@ -781,7 +781,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1485,
+            "stars": 1486,
             "topics": [
               "ast",
               "markdown",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:52:56.654Z",
+    "last_updated": "2026-11-05T19:02:50.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
