@@ -63,8 +63,8 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ## mdast utilities
 
-* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
-* [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
+* [mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) ⭐ 124 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-23 - Transform to hast.
+* [mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc) ⭐ 88 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-02 - Generate a Table of Contents.
 * [mdast-util-to-string](https://github.com/syntax-tree/mdast-util-to-string) ⭐ 48 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30 - Get the plain text content of a node.
 * [mdast-zone](https://github.com/syntax-tree/mdast-zone) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2024-09-05 - Use comments as ranges and markers.
 * [mdast-util-definitions](https://github.com/syntax-tree/mdast-util-definitions) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-07-08 - Find definitions.
@@ -81,7 +81,7 @@ On top of **[unist][]** and its implementations sits the rest of
 * [hast-util-to-html](https://github.com/syntax-tree/hast-util-to-html) ⭐ 119 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29 - Transform to an HTML string.
 * [hast-util-to-jsx-runtime](https://github.com/syntax-tree/hast-util-to-jsx-runtime) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Transform to preact, react, solid, svelte, vue, etc.
 * [hast-util-sanitize](https://github.com/syntax-tree/hast-util-sanitize) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-25 - Sanitize a tree.
-* [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
+* [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) ⭐ 44 | 🐛 2 | 🌐 JavaScript | 📅 2025-01-28 - Transform to mdast.
 * [hast-util-select](https://github.com/syntax-tree/hast-util-select) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-19 - `querySelector`, `querySelectorAll`, and `matches`.
 * [hast-util-from-dom](https://github.com/syntax-tree/hast-util-from-dom) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-19 - Transform from a DOM tree.
 * [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-25 - Get plain-text content.
@@ -166,4 +166,4 @@ On top of **[unist][]** and its implementations sits the rest of
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

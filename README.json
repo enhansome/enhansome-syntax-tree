@@ -518,7 +518,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-11-23T21:08:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-hast",
             "stars": 124,
@@ -548,7 +548,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-06-02T14:43:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "mdast-util-toc",
             "stars": 88,
@@ -930,7 +930,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-01-28T10:04:18Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "syntax-tree",
             "repo": "hast-util-to-mdast",
             "stars": 44,
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:59:51.589Z",
+    "last_updated": "2026-11-08T17:15:08.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
