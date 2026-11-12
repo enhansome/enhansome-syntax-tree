@@ -1937,7 +1937,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:53:05.585Z",
+    "last_updated": "2026-11-12T19:09:49.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
