@@ -49,7 +49,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1488,
+            "stars": 1489,
             "topics": [
               "ast",
               "markdown",
@@ -781,7 +781,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1488,
+            "stars": 1489,
             "topics": [
               "ast",
               "markdown",
@@ -959,7 +959,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-02-19T14:34:38Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "hast-util-select",
             "stars": 43,
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:15:29.951Z",
+    "last_updated": "2026-11-17T20:03:12.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
