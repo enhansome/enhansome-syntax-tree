@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5054,
+            "stars": 5055,
             "topics": [
               "ast",
               "cst",
@@ -837,7 +837,7 @@
             "id": 61429445,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T19:35:56Z",
+            "last_commit": "2026-11-18T16:21:39Z",
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "hast-util-to-html",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T20:03:12.768Z",
+    "last_updated": "2026-11-18T19:37:48.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
