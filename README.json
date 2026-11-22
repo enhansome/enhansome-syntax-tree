@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5054,
+            "stars": 5056,
             "topics": [
               "ast",
               "cst",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-util-visit",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "syntax-tree",
               "unist",
@@ -316,7 +316,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist-util-is",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "equal",
               "equality",
@@ -521,7 +521,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-hast",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "hast",
               "hast-util",
@@ -581,7 +581,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast-util-to-string",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "markdown",
               "mdast",
@@ -870,7 +870,7 @@
             "open_issues": 1,
             "owner": "syntax-tree",
             "repo": "hast-util-to-jsx-runtime",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "hast",
               "hast-util",
@@ -1346,7 +1346,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "xastscript",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "syntax-tree",
               "unist",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:14:52.804Z",
+    "last_updated": "2026-11-22T18:39:43.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
