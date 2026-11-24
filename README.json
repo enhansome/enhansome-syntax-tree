@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5055,
+            "stars": 5054,
             "topics": [
               "ast",
               "cst",
@@ -1952,7 +1952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:55:43.873Z",
+    "last_updated": "2026-11-24T21:32:59.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome syntax-tree, unist, hast, xast, mdast, esast, nlcst resources",
